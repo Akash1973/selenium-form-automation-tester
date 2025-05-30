@@ -37,11 +37,17 @@ This automation tests the CloudQA Practice Form at:
 https://app.cloudqa.io/home/AutomationPracticeForm
 
 ## Project Structure
+
 SeleniumFormTester/
+
 ├── Program.cs              # Main application code
+
 ├── SeleniumFormTester.csproj   # Project configuration
+
 ├── README.md               # This file
+
 └── .gitignore             # Git ignore rules
+
 
 ## How It Works
 
